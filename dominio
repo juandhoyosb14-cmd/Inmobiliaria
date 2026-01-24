@@ -1,0 +1,8 @@
+cp domains/sectorinmobiliarioslp.yaml
+
+subdomain: sectorinmobiliarioslp
+owner: sectorinmobiliario
+email: juandhoyosb14@gmail.com
+description: mi pagina web
+record_type: sectorinmobiliarioslp
+record_value: sectorinmobiliarioslp.github.io
